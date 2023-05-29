@@ -1,0 +1,155 @@
+.mediaViewInfo {
+	--web-view-name: top banner;
+	--web-view-id: top_banner;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: top_banner;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#top_banner {
+	position: absolute;
+	width: 1920px;
+	height: 866px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: top banner;
+	--web-view-id: top_banner;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#sigmund-pmp1aT_g4mI-unsplash {
+	position: absolute;
+	width: 1920px;
+	height: 864px;
+	left: 0px;
+	top: 1px;
+	overflow: visible;
+}
+#Group_29 {
+	position: absolute;
+	width: 1598.771px;
+	height: 1462.256px;
+	left: -316px;
+	top: -434px;
+	overflow: visible;
+}
+#Group_40 {
+	position: absolute;
+	width: 925px;
+	height: 400px;
+	left: 77px;
+	top: 233px;
+	overflow: visible;
+}
+#Moving_to_the_cloud__just_got_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 926px;
+	white-space: nowrap;
+	line-height: 80px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: FreeSans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(255,255,255,1);
+}
+#Simplify_your_business_with_Po {
+	left: 0px;
+	top: 210px;
+	position: absolute;
+	overflow: visible;
+	width: 608px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: FreeSans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_37 {
+	position: absolute;
+	width: 254px;
+	height: 73px;
+	left: 0px;
+	top: 327px;
+	overflow: visible;
+	transition: all 1s ease-out;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Video_one.html;
+	cursor: pointer;
+}
+#Component_3__1 {
+	position: absolute;
+	width: 254px;
+	height: 73px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Video_one.html;
+	cursor: pointer;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 73px;
+	left: 0px;
+	top: 0px;
+}
+#Component_4__1 {
+	position: absolute;
+	width: 136px;
+	height: 22px;
+	left: 58px;
+	top: 26px;
+	overflow: visible;
+}
+#Learn_More {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	line-height: 54px;
+	margin-top: -18.5px;
+	text-align: left;
+	font-family: FreeSans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,170,221,1);
+	letter-spacing: 1.6px;
+	text-transform: uppercase;
+}
